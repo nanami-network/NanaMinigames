@@ -1,0 +1,5 @@
+name: NanaMinigames
+version: ${project.version}
+main: xyz.n7mn.dev.minigames.NanaMinigames
+load: STARTUP
+authors: [ ClockClap ]
